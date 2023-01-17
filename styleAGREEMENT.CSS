@@ -1,0 +1,80 @@
+.agreement-page-title{
+    color: white;
+    background-color:black;
+    margin-left: 200px;
+    margin-right: 100px;
+    text-align: center;
+}
+.main-edit{
+    background-color: rgb(0, 0, 255);
+    font-size: 30px;
+    letter-spacing: 1px;
+    color: white;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.waliigaltee{
+    background-color: gold;
+    width: 500px;
+    height: 500px;
+    border: 10px solid green;
+
+}
+.inputwaliigaltee{
+    color: white;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+}
+.textwaliigaltee{
+    text-transform: uppercase;
+    background-color: blue;
+    color: white;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: static;
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+@media only screen and (min-width:768px){
+    .waliigaltee{
+        display: block;
+        width: 50%;
+    }
+
+    .textwaliigaltee{
+        text-transform: uppercase;
+        background-color: blue;
+        color: white;
+        margin-left: 150px;
+        margin-right: 150px;
+        padding-top: 10px;
+        padding-bottom: 10px; 
+        
+    }
+
+    .inputwaliigaltee{
+        background-color: white ;
+        padding-top: 10px;
+        padding-left: 10px;
+        padding-bottom: 19px
+    }
+}
+.fuulawaliigaltee{
+  height: 500px;
+
+  text-align: center;
+}
+
+.gotobome{
+    position:static;
+    background-color: gold;
+    font-size: 20px;
+}
