@@ -1,0 +1,134 @@
+body{
+    margin: 0;
+    text-align: center;
+
+}
+.aboutus{
+    display: grid;
+    gap: 10px;
+    padding: 10px;
+    background-color: #2196f3;
+}
+.aboutus > div{
+    background-color: rgb(255,255,255,0.8);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+    font-size: 100px;
+
+}
+.aboutkiyya1{
+    grid-area: menu;
+}
+
+.HOME-CONTAINER{
+    display: flex;
+    background-color: white;
+    background-image:url("") ;
+    background-repeat: no-repeat;
+
+}
+.HOME-CONTAINER{
+    background-color: aquamarine;
+    height: 100vh;
+    width: 100vw;
+
+}
+.table-edit{
+    background-color: black;
+    opacity: 100%;
+    text-align: center;
+    color: whitesmoke;
+}
+.main-edit{
+    background-color: rgb(0, 0, 255);
+    font-size: 30px;
+    letter-spacing: 1px;
+    color: white;
+    margin-left: 60px;
+    margin-right: 60px;
+
+}
+.employee-class{
+width: 500px;
+height: 500px;
+background-color: aliceblue;
+color: black;
+background-color:gold;
+}
+.employee-class.textemployee{
+    color:blue;
+    padding: 10px;
+}
+.agreement-page-title{
+    color: white;
+    background-color:black;
+    margin-left: 200px;
+    margin-right: 150px;
+}
+.waliigaltee{
+    background-color: gold;
+    width: 600px;
+    height: 800px;
+    border: 10px solid green;
+    position: static;
+
+}
+.inputwaliigaltee{
+    background-color: white ;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 19px
+    
+}
+.textwaliigaltee{
+    text-transform: uppercase;
+    background-color: blue;
+    color: white;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.waliigalteesubmit{
+    background-color: green;
+    position: absolute;
+
+}
+
+.fuulawaliigaltee{
+    word-spacing: 30px;
+
+}
+.jala{
+    background-color: gold;
+    border: 2px solid black;
+    
+}
+.jalahome{
+    position: static;
+    text-transform: uppercase;
+}
+
+
+.contactUsC{
+    background-color: gold;
+    border: 10px solid black;
+    width: 400px;
+    height: 600px
+    borde-radius 4px;
+}
+
+.textCont{
+    background-color: blue;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    text-transform: uppercase;
+}
+.contuctQabate{
+    width: 380px;
+    height: 550px;
+}
